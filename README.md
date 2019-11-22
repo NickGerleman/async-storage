@@ -12,21 +12,26 @@ If you'd like to see the progress of v2, [please visit Project page.](https://gi
 
 ## Features
 
-todo
+- Unified API for underlying storage
+- Different type of storage for different purpose, see [available storages](#available-storages) 
+- Extensible functionality, to leverage full storage potential
+- Support for Mobile, Web and beyond
 
-## Documentation
-
-- [Creating a custom Storage backend](./packages/core/docs/Writing_Storage_Backend.md)
-
-## Available storage backends
+## Available storages
 
 - [Legacy](./packages/storage-legacy/README.md)
 - [Web](./packages/storage-web/README.md)
 
 
+## Documentation
+
+- [API documentation](./packages/core/docs/API.md)
+- [Creating custom Storage backend](./packages/core/docs/Writing_Storage_Backend.md)
+
+
 ## License
 
-MIT
+MIT.
 
 
 
